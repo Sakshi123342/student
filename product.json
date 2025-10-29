@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"Double veggie burger",
+        "price":"Rs.9.67",
+        "image":"imgaes/burger.png"
+    },
+    {
+        "id":2,
+        "name":"veggie pizza",
+        "price":"Rs.10.99",
+        "image":"imgaes/pizza.png"
+    },
+    {
+        "id":3,
+        "name":"Fried Chicken",
+        "price":"Rs.13.45",
+        "image":"imgaes/fried-chicken.png"
+    },
+    {
+        "id":4,
+        "name":"chicken roll",
+        "price":"$6.99",
+        "image":"imgaes/chicken-roll.png"
+    },
+    {
+        "id":5,
+        "name":"sub-sandwich",
+        "price":"$16.65",
+        "image":"imgaes/sandwich.png"
+    },
+    {
+        "id":6,
+        "name":"Chicken Lasagna",
+        "price":"16.45",
+        "image":"imgaes/lasagna.png"
+    },
+    {
+        "id":7,
+        "name":"Burger",
+        "price":"$7.65",
+        "image":"imgaes/burger.png"
+    },
+    {
+        "id":8,
+        "name":"spring Roll",
+        "price":"$9.31",
+        "image":"imgaes/spring-roll.png"
+    }
+]
